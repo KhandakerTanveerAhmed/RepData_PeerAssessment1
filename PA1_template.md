@@ -1,16 +1,8 @@
----
-title: "Reproducible research assignment"
-author: "Khandaker Tanveer Ahmed"
-date: "5/12/2020"
-output: html_document
----
 
----
-title: 'Reproducible research: assignment 1'
-author: "Khandaker Tanveer Ahmed"
-date: "5/12/2020"
-output: html_document
----
+# Reproducible research: assignment 1
+## Khandaker Tanveer Ahmed
+5/12/2020
+
 ## Getting the data
 ```{r}
 stepdata <- read.csv("activity.csv", header = TRUE)
